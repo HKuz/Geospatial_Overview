@@ -1,6 +1,6 @@
 # Overview of Working with Geospatial Data in Python
 
-This repository holds the code and slides behind a short (15 minute) presentation for the Boston Python and Women Who Code groups in November 2020.
+This repository holds the code and slides behind my presentation for the Boston Python group.
 
 ## Running the Notebook Locally
 
