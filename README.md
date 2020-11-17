@@ -25,4 +25,6 @@ Fun fact (also from Wikipedia): there's a fifty-mile stretch of sea along Cape C
 <!--
 https://www.w3.org/2015/spatial/wiki/Coordinate_Reference_Systems
 WGS84, a CRS for latitude-longitude coordinates, is very popular on the web. This has lead to the idea that this CRS can be considered a default CRS. In fact, many specifications have done so (basic geo, GeoJSON, geosparql).
+
+www.thetruesize.com for interactive map showing Mercator projection distortions - as you drag a country around it adjusts to it's accurate relative size.
 -->
