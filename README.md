@@ -30,4 +30,10 @@ www.thetruesize.com for interactive map showing Mercator projection distortions 
 
 Gist with KML reading and dropping Z dimension info:
 https://gist.github.com/mazzma12/0a32ce693bb42b742252caabb98519db
+
+13 Top open source GIS software: https://gisgeography.com/free-gis-software/
+
+More than you ever wanted to know about GeoJSON:
+https://macwright.com/2015/03/23/geojson-second-bite.html
+
 -->
