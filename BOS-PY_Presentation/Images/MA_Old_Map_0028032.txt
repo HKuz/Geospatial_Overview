@@ -1,0 +1,32 @@
+Author	Lewis, Samuel
+Attributed Author	Arrowsmith, Aaron
+Date	1812
+Short Title	Massachusetts.
+Publisher	Thomas & Andrews
+Publisher Location	Boston
+Type	Atlas Map
+Obj Height cm	20
+Obj Width cm	25
+Scale 1	1,250,000
+Note	Engraved map, uncolored. Relief shown by hachures. Prime meridians: London and Philadelphia.
+State/Province	Massachusetts
+Full Title	Massachusetts. Drawn by S. Lewis. (Boston: Published by Thomas & Andrews. 1812)
+List No	0028.032
+Page No	(32)
+Series No	35
+Publication Author	Arrowsmith, Aaron
+Publication Author	Lewis, Samuel
+Pub Date	1812
+Pub Title	A new and elegant general atlas, comprising all the new discoveries, to the present time. Containing sixty-three maps, drawn by Arrowsmith and Lewis. Intended to accompany the new improved edition of Morse's Geography, but equally well calculated to be used with his Gazetteer, or any other geographical work. Boston: Published by Thomas & Andrews. Sold at their bookstore, no. 45, Newbury-Street, and by the principal booksellers in the United States. May, 1812.
+Pub Reference	P718; Ristow p. 265-266; Newberry Library.
+Pub Note	See note field above.
+Pub List No	0028.000
+Pub Type	World Atlas
+Pub Maps	63
+Pub Height cm	28
+Pub Width cm	23
+Image No	0028032
+Download 1	<a href=http://www.davidrumsey.com/rumsey/download.pl?image=/D0115/0028032.sid target=_blank>Full Image Download in MrSID Format</a>
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Authors	Lewis, Samuel; Arrowsmith, Aaron
+Collection	Rumsey Collection
