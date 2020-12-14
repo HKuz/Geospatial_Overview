@@ -1,6 +1,6 @@
 # Overview of Working with Geospatial Data in Python
 
-This repository holds the code and slides for the presentation for the Boston Python group titled *On Python and Positioning: An Introduction to Working with Geospatial Data in Python with GeoPandas*.
+This repository holds the code and slides for the presentation for the Boston Python group titled *On Python and Positioning: An Introduction to Working with Geospatial Data in Python with GeoPandas*. It was presented on December 16, 2020.
 
 ## Dataset Sources
 
