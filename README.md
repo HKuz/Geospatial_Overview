@@ -20,9 +20,9 @@ The Jupyter Notebook runs off an Anaconda environment that contains all of these
 conda env create -f environment_geo.yml
 ```
 
-You can also use a Python 3 pip environment, and `pip install` the following packages: `geopandas`, `geopy`, and `folium`. Also make sure your environment can run a Jupyter notebook.
+You can also use a Python 3 pip environment, and `pip install` the following packages: `geopandas`, `geopy`, `folium`, and `contextily`. Also make sure your environment can run a Jupyter notebook.
 
-Once your local environment is ready, activate it (`conda activate geo`) and run the `jupyter notebook` command.
+Once your local environment is ready, activate it (`conda activate geo`) and run the `jupyter notebook` command to access the `geospatial_code_demo.ipynb` file.
 
 
 <!--
