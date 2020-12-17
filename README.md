@@ -29,7 +29,7 @@ If you've cloned this repository and want to run the code locally, you'll need t
 The Jupyter Notebook runs off an Anaconda environment that contains all of these packages. To re-create the `geo` environment, first make sure you have either an [Anaconda or miniconda distribution](https://www.anaconda.com/) installed, then run the following command:
 
 ```bash
-conda env create -f environment.yml
+conda env create -f environment_geo.yml
 ```
 
 Once your local environment is ready, activate it (`conda activate geo`) and run the `jupyter notebook` command to access the `geospatial_code_demo.ipynb` file.
