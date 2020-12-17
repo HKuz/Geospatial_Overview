@@ -130,3 +130,6 @@ dmypy.json
 
 # Powerpoint temp files
 ~$*.pptx
+
+# Pres speaking notes
+Geo_Pres_Notes.md
