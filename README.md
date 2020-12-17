@@ -10,6 +10,8 @@ Fun fact (also from Wikipedia): there's a fifty-mile stretch of sea along Cape C
 
 In 1717, the pirate ship *Whydah Gally* was caught in a Nor'easter and fell victim to this area, strewing its plunder into the sand along 4 miles of shoreline. Locals were unable to recover much as the riches were buried in the sand, so the ship was largely forgotten about and turned into local lore. It wasn't until 260 years later that the explorer Barry Clifford and his team discovered the wreck. They've been able to excavate over 200,000 artifacts, including the ship's bell and a small placard containing its name, therefore making the *Whydah* the only authenticated pirate wreck in the US.
 
+This presentation leveraged the lore around the Whydah wreck to illustrate how to import data, create a GeoDataFrame in `GeoPandas`, and create an interactive map with `folium`.
+
 ## Running the Notebook Locally
 
 If you've cloned this repository and want to run the code locally, you'll need to make sure you have the necessary Python packages installed on your machine.
@@ -29,6 +31,9 @@ Once your local environment is ready, activate it (`conda activate geo`) and run
 DATA
 Gist with KML reading and dropping Z dimension info:
 https://gist.github.com/mazzma12/0a32ce693bb42b742252caabb98519db
+
+List of potential treasure around Massachusetts
+https://www.onlyinyourstate.com/massachusetts/hidden-treasure-ma/
 
 GIS
 13 Top open source GIS software: https://gisgeography.com/free-gis-software/
