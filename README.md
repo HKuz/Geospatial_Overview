@@ -2,6 +2,8 @@
 
 This repository holds the code and slides titled *On Python and Positioning: An Introduction to Working with Geospatial Data in Python with GeoPandas* that were presented to the Boston Python group on December 16, 2020.
 
+The presentation slides are located in the `BOS-PY-Presentation` subfolder.
+
 ## Dataset Sources
 
 The presentation used a combination of dive site and shipwreck data garnered off the web. The Massachusetts wrecks are courtesy of [Wikipedia](https://en.wikipedia.org/wiki/List_of_shipwrecks_of_Massachusetts), and the diving info is the result of a call to the [Divesites.com API](http://api.divesites.com/docs/) for sites within 50 nautical miles of Boston, MA.
@@ -12,7 +14,15 @@ In 1717, the pirate ship *Whydah Gally* was caught in a Nor'easter and fell vict
 
 This presentation leveraged the lore around the Whydah wreck to illustrate how to import data, create a GeoDataFrame in `GeoPandas`, and draw an interactive map with `folium`. An HTML file with the exported `folium` map is saved in the `index.html` file in the repository.
 
-## Running the Notebook Locally
+## Running the Code Demo Notebook
+
+### In the Browser
+
+This repository has enabled [Binder](https://mybinder.org/) to run the Jupyter notebook. Just click below to launch an interactive notebook in your browser:
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HKuz/Geospatial_Overview/HEAD)
+
+### Locally
 
 If you've cloned this repository and want to run the code locally, you'll need to make sure you have the necessary Python packages installed on your machine.
 
