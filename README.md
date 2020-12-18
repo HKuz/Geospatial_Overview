@@ -15,7 +15,7 @@ In 1717, the pirate ship *Whydah Gally* was caught in a Nor'easter and fell vict
 This presentation leveraged the lore around the Whydah wreck to illustrate how to import data, create a GeoDataFrame in `GeoPandas`, and draw an interactive map with `folium`. An HTML file with the exported `folium` map is saved in the `index.html` file in the repository.
 
 ## Running the Code Demo Notebook
-
+<!--
 ### In the Browser
 
 This repository has enabled [Binder](https://mybinder.org/) to run the Jupyter notebook. Just click below to launch an interactive notebook in your browser:
@@ -23,26 +23,16 @@ This repository has enabled [Binder](https://mybinder.org/) to run the Jupyter n
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HKuz/Geospatial_Overview/HEAD)
 
 ### Locally with an Anaconda Environment
-
+ -->
 If you've cloned this repository and want to run the code locally, you'll need to make sure you have the necessary Python packages installed on your machine.
 
 The Jupyter Notebook runs off an Anaconda environment that contains all of these packages. To re-create the `geo` environment, first make sure you have either an [Anaconda or miniconda distribution](https://www.anaconda.com/) installed, then run the following command:
 
 ```bash
-conda env create -f environment_geo.yml
+conda env create -f environment.yml
 ```
 
 Once your local environment is ready, activate it (`conda activate geo`) and run the `jupyter notebook` command to access the `geospatial_code_demo.ipynb` file.
-
-### Locally with a pip Environment
-
-If you don't have (or want) Anaconda, you can also use a Python 3 pip environment. Run the following commands to create and activate a pip environment using the `requirements.txt` file:
-
-```bash
-python3 -m venv env
-source env/bin/activate
-pip install -r requirements.txt
-```
 
 <!--
 DATA
